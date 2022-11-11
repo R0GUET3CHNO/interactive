@@ -44,7 +44,7 @@
     "chai-as-promised": "7.1.1",
     "fetch-mock": "9.4.0",
     "mkdirp": "1.0.4",
-    "mocha": "7.1.1",
+    "mocha": "10.1.0",
     "mocha-multi-reporters": "1.1.7",
     "mocha-trx-reporter": "3.2.4",
     "mocha-typescript": "1.1.17",
